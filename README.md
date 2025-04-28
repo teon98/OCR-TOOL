@@ -12,3 +12,7 @@
 ## 3) PaddleOCR (중국 모델)
 - PaddleOCR.ipynb (⚠️손글씨 인식률 중간, 개인적으로 EasyOCR 보다 안좋음)
 - createXY2.py로 추출한 field area로 field 자동 맵핑 가능
+
+## 4) Google Cloud vision API
+- ✅ 손글씨 인식률 좋음!
+- 1000장 까지 무료 (이후부터는 페이지당 $1.50, 약 2,000원)
